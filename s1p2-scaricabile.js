@@ -35,8 +35,7 @@ REGOLE
 /* SCRIVI QUI LA TUA RISPOSTA */
 let primoNumero = 12
 let secondoNumero = 20
-console.log(primoNumero)
-console.log(secondoNumero)
+
 let somma = primoNumero + secondoNumero
 console.log(somma)
 
@@ -46,7 +45,7 @@ console.log(somma)
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 let x = 12
-console.log(x)
+
 
 /* ESERCIZIO 5
  Crea una variable chiamata "name" e assegna ad essa il tuo nome, sotto forma di stringa.
@@ -62,11 +61,18 @@ console.log(name)
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 let y = 4
-console.log(y)
 
 let risultato = y - x
 console.log(risultato)
 
+
+
+let me = {
+    nome: "Matteo",
+    cognome: "Pascucci",
+    hobby: "Palestra"
+}
+console.log(me)
 /* ESERCIZIO 7
  Crea due variabili: "name1" e "name2". Assegna a name1 la stringa "john", e assegna a name2 la stringa "John" (con la J maiuscola!).
  Verifica che name1 sia diversa da name2 (suggerimento: è la stessa cosa di verificare che la loro uguaglianza sia falsa).
