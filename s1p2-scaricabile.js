@@ -70,7 +70,7 @@ console.log(risultato)
 let me = {
     nome: "Matteo",
     cognome: "Pascucci",
-    hobby: "Palestra "
+    hobby: "Palestra"
 }
 console.log(me)
 /* ESERCIZIO 7
